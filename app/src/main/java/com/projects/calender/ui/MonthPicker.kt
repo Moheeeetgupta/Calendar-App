@@ -163,7 +163,7 @@ fun MonthPicker(
                     modifier = Modifier.padding(end = 20.dp),
                     onClick = {
                         confirmButtonCLicked(
-                            months.indexOf(month) + 1,
+                            months.indexOf(month),
                             year
                         )
                     },
