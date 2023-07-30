@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_task">Add Task</string>
+    <string name="title">Title</string>
+    <string name="des_cription">Description</string>
+    <string name="add">Add</string>
+    <string name="delete">delete</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="please_check_your_internet_connection">Please Check Your Internet Connection</string>
+    <string name="please_fill_at_least_one_field">Please fill at least one field</string>
+</resources>
